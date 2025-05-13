@@ -1,0 +1,28 @@
+/* fonts imported */
+
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;700&display=swap');
+
+/* custom properties */
+
+/* Default Font size */
+
+html, body {
+    font-size: 16px;
+}
+
+:root {
+    --clr-primary-red500: hsl(12, 88%, 59%);
+    --clr-primary-blue900: hsl(228, 39%, 23%);
+
+    
+
+/* Dark Grayish Blue: hsl(227, 12%, 61%)
+Very Dark Blue: hsl(233, 12%, 13%)
+Very Pale Red: hsl(13, 100%, 96%)
+Very Light Gray: hsl(0, 0%, 98%) */
+    --clr-neutral-blue700: hsl(227, 12%, 61%);
+    --clr-neutral-blue900:hsl(233, 12%, 13%); 
+    --clr-neutral-red100: hsl(13, 100%, 96%);
+    --clr-neutral-grey100: hsl(0, 0%, 98%);
+
+}
